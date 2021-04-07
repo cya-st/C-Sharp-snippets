@@ -1,5 +1,5 @@
 # C-Sharp-snippets
-Some enteresting examples
+Some interesting examples
 
 ## Method extension for LINQ
 ```csharp
